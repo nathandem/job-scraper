@@ -1,9 +1,11 @@
-# Goal
-Get job offers data from a major French IT recruitment site.
-
 _This simple scraper is part of a larger project whose goal is to analyse the skills asked on the IT job maket at any point in time and render this data clearly to developers._
 
-## Capabilities
+-----------------------------------------------------------------------
+
+# Goal (of this precise scraper)
+Get job offers data from a major French IT recruitment site.
+
+# Capabilities
 
 Data is extracted and cleaned (no DB pipeline set here).
 
